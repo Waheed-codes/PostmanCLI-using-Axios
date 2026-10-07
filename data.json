@@ -1,0 +1,25 @@
+[
+  {
+    "id": "127bd600-1aa7-4e40-ba01-6954774f4939",
+    "name": "Waheed",
+    "email": "userwaheed@gmail.com",
+    "hashedPassword": "$2b$10$KvVuP8C08Gx9Et1/nDRLr.grhk7bh5vZNklDNYHGzasIV4gpQ4nbG",
+    "todos": [
+      {
+        "id": "14c5d3af-f017-4374-9f2b-cc5db1d8bb4e",
+        "task": "Landmark"
+      },
+      {
+        "id": "b3c422e2-dffd-49fb-880e-af68081f8614",
+        "task": "cli"
+      }
+    ]
+  },
+  {
+    "id": "d31651d2-b1fd-4046-89f7-c9626482262b",
+    "name": "wahed",
+    "email": "user",
+    "hashedPassword": "$2b$10$M2PdfbIgZOWxCsv4l2mHnuKOFLw42AZSyirpGqDWc5UvzkgK4AQG.",
+    "todos": []
+  }
+]

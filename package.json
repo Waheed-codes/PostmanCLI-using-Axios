@@ -1,0 +1,27 @@
+{
+  "name": "postmancli-using-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waheed-codes/PostmanCLI-using-Axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Waheed-codes/PostmanCLI-using-Axios/issues"
+  },
+  "homepage": "https://github.com/Waheed-codes/PostmanCLI-using-Axios#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "bcrypt": "^6.0.0",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "readline-sync": "^1.4.10",
+    "uuid": "^14.0.2"
+  }
+}
